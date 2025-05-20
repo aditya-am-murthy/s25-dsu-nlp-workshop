@@ -1,1 +1,1 @@
-# dsu-nlp-workshop
+# DSU NLP Workshop
